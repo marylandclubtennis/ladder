@@ -190,3 +190,25 @@ li span.wl {
     max-width: 150px; /* Adjust the size of the logo as needed */
     margin-bottom: 20px;
 }
+
+/* Add styling for the new Tokens column */
+.tokens-header {
+    flex: 1 1 20%;
+    text-align: left;
+    font-weight: bold;
+    color: #333;
+}
+
+li span.tokens {
+    flex: 1 1 20%;
+    text-align: left;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.2em;
+    color: #333;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+li span.tokens:hover {
+    transform: scale(1.2);
+    color: #d34f4f;
+}

@@ -41,15 +41,15 @@ function fetchAndDisplayLadder(file) {
                 // Split player data by whitespace (assuming format: "FirstName LastName Wins Losses")
                 const parts = player.trim().split(' ');
                 const name = parts.slice(0, -2).join(' '); // Combine all parts except the last two as the name
-                const wins = parts[parts.length - 2]; // Second-to-last part is wins
-                const losses = parts[parts.length - 1]; // Last part is losses
+                
+                const tokens_avail = parts[parts.length - 1]; // Last part is losses
 
                 // Create a list item with the parsed data
                 const playerItem = document.createElement('li');
                 playerItem.innerHTML = `
                     <span class="rank">${index + 1}</span>
                     <span class="name">${name}</span>
-                    <span class="wl">${wins}-${losses}</span>
+                    <span class="wl">${tokens_avail}</span>
                 `;
                 ladder.appendChild(playerItem);
             });
@@ -72,3 +72,4 @@ document.getElementById('girls-ladder-btn').addEventListener('click', () => {
 
 // Default to guys ladder on page load
 fetchAndDisplayLadder('s25_guys_ladder.txt');
+
