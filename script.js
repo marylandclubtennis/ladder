@@ -40,7 +40,7 @@ function fetchAndDisplayLadder(file) {
 
                 // Split player data by whitespace (assuming format: "FirstName LastName Wins Losses")
                 const parts = player.trim().split(' ');
-                const name = parts.slice(0, -2).join(' '); // Combine all parts except the last two as the name
+                const name = parts.slice(0, -1).join(' '); // Combine all parts except the last one as the name
                 
                 const tokens_avail = parts[parts.length - 1]; // Last part is losses
 
