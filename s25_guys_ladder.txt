@@ -2,6 +2,7 @@ Sathya Gnanakumar 0
 Saurav Patel 0
 Anirudh Poruri 0
 Conrad Decressin INJ
+Ahren Kapur-Sarma 2
 Michael Ried 1
 Matthias Linke 0
 Connor Burke 1
@@ -13,13 +14,11 @@ Ben Dubrovsky 1
 James Henry 1
 Dhruv Dhas 2
 Nicholas Elliot 2
-Ahren Kapur-Sarma
 Travis Dutton 2
 Joshua Huster 2
 Sammy Baunoch 2
 Zachary Dubilirer 2
 Alex Wise 2
-Luke Dragonnette 2
 Evan Vezagic 2
 Matthew Antonio 2
 Nathan Zenna 2
