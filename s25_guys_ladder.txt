@@ -9,14 +9,11 @@ Shuban Devarakonda
 Ashu Machida 1
 Aymaan Hussain 0
 Nish Sura 1
-Noah Hornstein 2
 Ben Dubrovsky 1
 James Henry 1
 Dhruv Dhas 2
-Hash Cheemalakonda 2
-Maximo Dominguez 2
-Ohm Sapa 2
 Nicholas Elliot 2
+Ahren Kapur-Sarma
 Travis Dutton 2
 Joshua Huster 2
 Sammy Baunoch 2
@@ -31,7 +28,6 @@ Chandler Cloman 2
 Noah Ryu Nguyen 2
 Hengyi Wu 2
 Arik Gershman 2
-Ahren Kapur-Sarma 2
 Daniel Mears 2
 Vir Trivedi 2
 Daniel Ly 2
