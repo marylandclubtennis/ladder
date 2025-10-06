@@ -17,6 +17,8 @@ Nish Sura 2
 Ben Dubrovsky 2
 Josh Huster 2
 James Henry 2
+Cameron Opdyke 2
+Mark Hoffman 2
 Tamir Blumin 2
 Matthew Antonio 2
 Peter Bahr 2
@@ -26,14 +28,18 @@ Evan Vejzagic 2
 Ahren Kapur-Sarma 2
 Snehit Shadangi 2
 Travis Dutton 2
+Bram Koorstra 2
+Marcus Phillip 2
 Alex Zheng 2
 Jonah Baram 2
 Raj Jetty 2
+Aarav Gupta 2
 Garrett Braun 2
 Patrick Young 2
 Ethan Rosenberg 2
 Jeff Karpelson 2
 Sean Wazniak 2
+Daniel Kang 2
 Will Derrick 2
 Derek Ngombu 2
 Jasper Thomas 2
